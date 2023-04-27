@@ -1,38 +1,38 @@
 ## Olá, Me chamo Lucas Soares 👋
 
-<!--
-**soaresrlucas/soaresrlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Amo fazer coisas que um dia achei serem impossíveis. Adoro aprender e criar coisas novas.
 
-Amo fazer coisas que um dia achei serem impossíveis. Adoro aprender e criar coisas novas.
+## Um pouco sobre mim
 
 - 🌱 Atualmente estou aprendendo a me integrar no mundo profissional
 - 📫 Como entrar em contato: es.soareslucas@gmail.com
 - 😄 Pronouns: Ele/Dele
--->
 
 ## Ferramentas e tecnologias
 
 - C
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 - Python
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 - Java
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 
 - HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 - CSS
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
 
 - React
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 - Github
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 
 <div>
 <a href="https://github.com/soaresrlucas">
