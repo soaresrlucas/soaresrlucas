@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## Olá, Me chamo Lucas Soares 👋
 
 ### Amo fazer coisas que um dia achei serem impossíveis. Adoro aprender e criar coisas novas.
@@ -31,7 +33,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 - Github
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<i class="devicon-github-original" width="40" height="40"></i>
 
 
 <div>
